@@ -1,1 +1,1 @@
-# complete_site
+# tablet_view
