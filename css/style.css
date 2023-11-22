@@ -337,7 +337,7 @@ figure img:hover {
     h1 {
         animation: none;
     }
-    .gif {
+    .thumbnail_gif {
         display: none;
     }
 }
